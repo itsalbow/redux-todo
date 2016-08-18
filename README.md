@@ -10,4 +10,6 @@
 ---
 ### To run:
 1. clone using `git clone https://github.com/itsalbow/redux-todo.git`
-2. run using `npm run start`
+2. `cd redux-todo`
+3. run `npm install`
+4. run `npm run start`
